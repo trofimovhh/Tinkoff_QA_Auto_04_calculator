@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         String instruction = "Input two numbers and an operation in between, for example: 2+3, then press <Enter>" + '\n' +
-                "There are 4 operations available +, -, \\, *" + "\n" +
+                "There are 4 operations available: +, -, \\, *" + "\n" +
                 "In order to close program just type EXIT" + "\n" +
                 "Your input is: ";
         System.out.println(instruction);
